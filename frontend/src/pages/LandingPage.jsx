@@ -313,8 +313,8 @@ const LandingPage = () => {
         <div className={landingPageStyles.footerContainer}>
           <p className={landingPageStyles.footerText}>
             Crafted with <span className={landingPageStyles.footerHeart}>❤️</span> by{' '}
-            <a href="https://hexagondigitalservices.com" target="_blank" className={landingPageStyles.footerLink}>
-              Hexagon Digital Services
+            <a href="www.linkedin.com/in/suhaibkh" target="_blank" className={landingPageStyles.footerLink}>
+              Suhaib Khan
             </a>
           </p>
         </div>
