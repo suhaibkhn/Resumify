@@ -1,0 +1,17 @@
+# node_modules ignore karo
+frontend/node_modules/
+backend/node_modules/
+
+# env files (secret keys) ignore karo
+frontend/.env
+backend/.env
+.env
+
+# build/dist files ignore karo
+frontend/build/
+backend/build/
+dist/
+
+# editor/OS junk files ignore karo
+.vscode/
+.DS_Store
