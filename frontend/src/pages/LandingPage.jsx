@@ -313,7 +313,7 @@ const LandingPage = () => {
         <div className={landingPageStyles.footerContainer}>
           <p className={landingPageStyles.footerText}>
             Crafted with <span className={landingPageStyles.footerHeart}>❤️</span> by{' '}
-            <a href="www.linkedin.com/in/suhaibkh" target="_blank" className={landingPageStyles.footerLink}>
+            <a href="https://www.linkedin.com/in/suhaibkh/" target="_blank" className={landingPageStyles.footerLink}>
               Suhaib Khan
             </a>
           </p>
