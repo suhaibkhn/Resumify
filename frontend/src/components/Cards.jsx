@@ -38,7 +38,7 @@ export const ProfileInfoCard = () => {
     )
 }
 
-// ResumeSummaryCard Component
+// ResumeSummaryCard Components
 export const ResumeSummaryCard = ({
   title = "Untitled Resume",
   createdAt = null,
